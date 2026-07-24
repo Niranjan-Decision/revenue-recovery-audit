@@ -1,0 +1,5 @@
+-- Utils: Shared Project Constants and Configurations
+-- Project ID: gleaming-store-501212-i4
+-- Target Dataset: revenue_mart
+-- Baseline AOV: $73.44
+-- Target Clean Period: 20201201 to 20210131
