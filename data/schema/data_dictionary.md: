@@ -1,0 +1,6 @@
+# Data Dictionary
+* `event_date`: STRING (YYYYMMDD partition)
+* `user_pseudo_id`: STRING (Anonymous user identifier)
+* `session_id`: INT64 (Extracted session key)
+* `transaction_id`: STRING (Unique order identifier)
+* `revenue`: FLOAT64 (Transaction monetary value)
