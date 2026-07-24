@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Overview (Signature)
+## 1. Overview
 * **Context:** This project evaluates e-commerce transaction funnels and web analytics data integrity within a multi-month operational environment.
 * **Pain:** The organization experienced severe value leakage because web traffic suffered a systemic data decoupling and tracking failure driven by client-side browser restrictions and script misfires.
 * **Strategy:** I engineered a three-tier diagnostic and recovery system that traces funnel instability, quantifies high-intent drop-offs, and aligns financial models with technical corrective actions.
